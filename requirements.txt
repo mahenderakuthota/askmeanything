@@ -3,3 +3,6 @@ langchain-community
 python-dotenv
 langchain-google-genai
 streamlit
+langchain-groq
+langchain_core
+sentence_transformers
